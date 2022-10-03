@@ -1,0 +1,9 @@
+Kitap oku	Türkiye'nin yakın tarihinini bitir	21-09-2022
+Java Çalış	JavaFX çalış ve konuyu bitir	22-09-2022
+WEB çalış	Fullstack web developer kursuna devam et	23-09-2022
+Italyanca çalış	İtalyanca çalışmaya başla ve 2 saat ayır	24-09-2022
+Tekrar	Bütün başlıklara 25dk ayır	25-09-2022
+test	testtesttesttesttesttesttesttesttesttest	02-10-2022
+test2	test2 test2 test2 test2 test2 test2 test2 test2 test2 test2 test2 test2 test2 test2 test2 test2 test2 test2 test2 test2 test2	01-10-2022
+test3	test3 test3 test3 test3 test3 test3 test3 test3 test3 test3 test3 test3	30-09-2022
+Eski bir task	Eski bir task Eski bir task Eski bir task Eski bir task Eski bir task	13-07-2022
